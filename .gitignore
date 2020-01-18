@@ -1,0 +1,7 @@
+*.pyc
+/.vscode/*
+.vscode/*
+/.vscode
+pulumi.env
+# package directories
+node_modules
